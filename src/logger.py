@@ -16,8 +16,8 @@ logging.basicConfig(
     level = logging.INFO,
 )
 
-# Export the configured logger
-logger = logging.getLogger(__name__) 
+# # Export the configured logger
+# logger = logging.getLogger(__name__) 
 
 if __name__ == "__main__":
     logging.info("Logging has started")

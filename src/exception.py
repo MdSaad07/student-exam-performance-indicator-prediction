@@ -2,7 +2,8 @@
 
 import sys
 import logging
-from logger import logger  # import the logger from the logger.py file in which it is exported
+from src.logger import logging
+# from logger import logger  # import the logger from the logger.py file in which it is exported
 
 def error_message_details(error, error_detail:sys):
     """This function generates custom error messages."""
