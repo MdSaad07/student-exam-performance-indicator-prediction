@@ -1,0 +1,4 @@
+python logger.py
+python src/exception.py
+python src/data_ingestion.py
+python -m src.components.data_ingestion.py
