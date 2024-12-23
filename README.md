@@ -84,4 +84,4 @@ The goal of this project is to build a machine learning model that predicts stud
 ## 🚀 How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Student-Marks-Performance-Indicator-Prediction.git
+   git clone https://github.com/MdSaad07/Student-Marks-Performance-Indicator-Prediction.git
